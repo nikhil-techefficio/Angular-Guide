@@ -13,3 +13,11 @@ npm install -g @angular/cli@latest
  Npm run build
   # Prod
     Npm run build --prod
+
+# New Component
+ng g c <component_name>
+
+npm i  @angular/common@18.0.0   
+
+
+
