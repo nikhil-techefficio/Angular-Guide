@@ -20,8 +20,9 @@ ng g c <component_name>
 npm i  @angular/common@18.0.0   
 
 # Best practecis for Ease and good code maintanence 
-  Maintaining constants to stare the api fetch value.
-  Saperate Js/Ts files to store Comman constants,
+Maintaining constants to stare the api fetch value.
+
+Saperate Js/Ts files to store Comman constants,
   Struchering of an API .
    --> Api Env file with values assined to variabules.
       -- sub file /file to maintain /Store jenerated Tocken.
